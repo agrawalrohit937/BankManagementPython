@@ -1,0 +1,34 @@
+[
+    {
+        "name": "NewUSer",
+        "age": 19,
+        "email": "rk@gmail.com",
+        "pin": 5678,
+        "accountNo.": "1234",
+        "balance": 3500
+    },
+    {
+        "name": "RK",
+        "age": 52,
+        "email": "agrawal@gamil.com",
+        "pin": 8596,
+        "accountNo.": "@902LVJ",
+        "balance": 0
+    },
+    {
+        "name": "Akarsh Vyas",
+        "age": 25,
+        "email": "kenvag5114@oxaam.in",
+        "pin": 8596,
+        "accountNo.": "lf113*C",
+        "balance": 2750
+    },
+    {
+        "name": "Jai",
+        "age": 50,
+        "email": "rohitbcs2023113@invertisuniversity.ac.in",
+        "pin": 7485,
+        "accountNo.": "J37%0ML",
+        "balance": 0
+    }
+]
